@@ -1,0 +1,80 @@
+
+
+#navbar{
+
+    background-color: lightblue;
+    display:flex;
+
+    justify-content: space-around;
+
+    height: 90px;
+}
+
+#bigger-container{
+
+    background-color: white;
+
+    display: flex;
+}
+
+#about{
+
+    margin-left: 1100px;
+    margin-top: 40px;
+
+    
+    height: 40px;
+
+    width: 100px;
+
+    text-align: center;
+
+}
+
+#portfolio{
+
+    margin-top: 40px;
+    
+
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+
+#contacts{
+
+    margin-top: 40px;
+
+    
+    height: 40px;
+
+    width: 100px;
+
+    text-align: center;
+}
+
+
+#photo-container{
+
+
+    background-color: beige;
+
+    /* margin-top: 0px; */
+
+    height: 2000px;
+
+    width: 700px;
+
+}
+
+
+#welcome-container{
+
+    margin-top: 200px;
+    height: 600px;
+
+    margin-left: 200px;
+    width: 650px;
+
+    background-color: cyan;
+}
